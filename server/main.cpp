@@ -1,6 +1,5 @@
 #include "httplib.h"
 #include "json.hpp"
-#include <format>
 #include <iostream>
 #include <iomanip>
 
